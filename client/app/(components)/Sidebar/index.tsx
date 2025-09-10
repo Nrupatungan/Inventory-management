@@ -83,7 +83,7 @@ const Sidebar = () => {
         }`}
       >
          <Image
-          src="https://s3-inventorybucket.s3.us-east-1.amazonaws.com/logo.png"
+          src="https://d-stock-inventory.s3.us-east-1.amazonaws.com/logo.png"
           alt="dstock-logo"
           width={27}
           height={27}
